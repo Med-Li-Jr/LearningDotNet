@@ -1,0 +1,15 @@
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\bin\Debug\net5.0\ScriptDecryptFile.exe
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\bin\Debug\net5.0\ScriptDecryptFile.deps.json
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\bin\Debug\net5.0\ScriptDecryptFile.runtimeconfig.json
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\bin\Debug\net5.0\ScriptDecryptFile.runtimeconfig.dev.json
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\bin\Debug\net5.0\ScriptDecryptFile.dll
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\bin\Debug\net5.0\ref\ScriptDecryptFile.dll
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\bin\Debug\net5.0\ScriptDecryptFile.pdb
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ScriptDecryptFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ScriptDecryptFile.AssemblyInfoInputs.cache
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ScriptDecryptFile.AssemblyInfo.cs
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ScriptDecryptFile.csproj.CoreCompileInputs.cache
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ScriptDecryptFile.dll
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ref\ScriptDecryptFile.dll
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ScriptDecryptFile.pdb
+D:\LearningPaths\DotNet\ScriptDecryptFile\ScriptDecryptFile\obj\Debug\net5.0\ScriptDecryptFile.genruntimeconfig.cache
